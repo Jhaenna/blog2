@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+	color: #240904;
+}
+h2{
+	text-align: left;
+	color: #240904;
+}
+hr{
+	color:#240904;
+
+}
+body{
+	color:#240904 ;
+	padding: 100px;
+	padding-top: 30px;
+	border: 0;
+	margin: 0;
+}
